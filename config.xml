@@ -18,7 +18,7 @@
     <preference name="WebViewBounce" value="true" />
     <preference name="Orientation" value="portrait" />
 
-    
+    <icon src="icon-2.png" />
     
     <gap:plugin name="org.apache.cordova.inappbrowser" />
     <gap:plugin name="com.phonegap.plugins.pushplugin" />
